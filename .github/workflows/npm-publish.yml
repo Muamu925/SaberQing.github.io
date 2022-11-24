@@ -2,7 +2,6 @@ name: Publish to npm
 
 on:
   push:
-# 检测到有push则执行action
 
 jobs:
   publish-to-npm:
