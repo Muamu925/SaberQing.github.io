@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "zzfls",
   "version": "3.0",
   "description": "zzfls",
@@ -7,6 +8,11 @@
   "name": "zzfls",
   "version": "3.0",
   "description": ""
+=======
+  "name": "bb3104",
+  "version": "1.0.1",
+  "description": "",
+>>>>>>> 0a0a314d37a7cbd92514fafe281539198df60314
   "main": "index.js",
   "scripts": {
     "test": "1"
