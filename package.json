@@ -1,11 +1,11 @@
 {
 <<<<<<< HEAD
   "name": "zzfls",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "description": "zzfls",
 =======
   "name": "zzfls",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": ""
   "main": "index.js",
   "scripts": {
