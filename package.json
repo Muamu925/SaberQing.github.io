@@ -1,28 +1,19 @@
 {
-<<<<<<< HEAD
-  "name": "zzfls",
-  "version": "5.0.0",
-  "description": "zzfls",
-=======
-  "name": "zzfls",
-  "version": "5.0.0",
-  "description": ""
+  "name": "zzcls-imgs",
+  "version": "2.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "git+https://github.com/SaberQing/SaberQing.github.io.git"
-=======
-    "url": "git+https://SaberQing/SaberQing.github.io.git"
->>>>>>> 55ef5d586a358ec2475ea0a3a252a4fd0b0e0f8e
+    "url": "git+https://github.com/Muamu925/zzcls-imgs.git"
   },
-  "author": "Muamu925",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SaberQing/SaberQing.github.io/issues"
+    "url": "https://github.com/Muamu925/zzcls-imgs/issues"
   },
-  "homepage": "https://github.com/SaberQing/SaberQing.github.io#readme"
+  "homepage": "https://github.com/Muamu925/zzcls-imgs#readme"
 }
